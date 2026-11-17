@@ -1,0 +1,10 @@
+certifi
+charset-normalizer
+click
+gTTS
+idna
+Pillow
+playsound
+requests
+ttkbootstrap
+urllib3
