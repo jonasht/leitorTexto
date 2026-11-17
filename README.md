@@ -1,0 +1,2 @@
+# leitorTexto
+leitor de texto
