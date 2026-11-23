@@ -1,0 +1,2 @@
+para funcionar, instalar espeak-ng:
+sudo pacman -S eSpeak-ng
